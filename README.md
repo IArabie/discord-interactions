@@ -18,6 +18,8 @@ bot.on(Events.InteractionCreate, async(Interaction) => {});
 bot.connect();
 ```
 
+> The Source Coming Soon
+
 ## Examples
 
 - [Fetch Guilds]()
